@@ -1,0 +1,150 @@
+.home {
+  background-color: white;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  /* font */
+  font-family: 'Poppins', sans-serif;
+}
+
+/* page home */
+#navbar {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  margin-top: 1%;
+}
+
+#home-page {
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: none;
+  text-align: center;
+  margin-left: 46%;
+}
+
+#container-home {
+  padding: 150px;
+}
+
+#row-home {
+  margin-top: -15%;
+}
+
+.accounts-img {
+  width: 120px;
+  height: 120px;
+}
+
+a.accounts {
+  color: #000000;
+  padding-top: 20px;
+  margin-left: 0%;
+  font-size: 20px;
+  text-decoration: none;
+}
+a.accounts:hover {
+  color: #535A3B;
+}
+
+.help-img {
+  width: 120px;
+  height: 120px;
+}
+
+a.help {
+  color: #000000;
+  font-size: 20px;
+  text-decoration: none;
+}
+a.help:hover {
+  color: #535A3B;
+}
+
+.pass-img {
+  width: 120px;
+  height: 120px;
+}
+
+a.pass {
+  color: #000000;
+  padding-top: 20px;
+  margin-left: 0%;
+  font-size: 20px;
+  text-decoration: none;
+}
+a.pass:hover {
+  color: #535A3B;
+}
+
+.co-img {
+  width: 120px;
+  height: 120px;
+}
+
+a.co {
+  color: #000000;
+  padding-top: 20px;
+  margin-left: 0%;
+  font-size: 20px;
+  text-decoration: none;
+}
+a.co:hover {
+  color: #535A3B;
+}
+
+.serbaada-img {
+  width: 120px;
+  height: 120px;
+}
+
+a.serbaada {
+  color: #000000;
+  padding-top: 20px;
+  margin-left: 0%;
+  font-size: 20px;
+  text-decoration: none;
+}
+a.serbaada:hover {
+  color: #535A3B;
+}
+
+.stock-img {
+  width: 120px;
+  height: 140px;
+}
+
+a.stock {
+  color: #000000;
+  padding-top: 20px;
+  margin-left: 0%;
+  font-size: 20px;
+  text-decoration: none;
+}
+a.stock:hover {
+  color: #535A3B;
+}
+
+.logout {
+  color: #5e5e5e;
+  margin-left: 75%;
+  font-size: 18px;
+}
+.logout:hover {
+  color: black;
+}
+
+/* copyright */
+.Right {
+	width: 100%;
+	height: 60px;
+  margin-top: auto;
+	color: #8d8d8d;
+	text-align: center;
+  font-size: 15px;
+	padding: 18px;
+}
